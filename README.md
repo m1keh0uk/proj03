@@ -34,3 +34,7 @@ Add --csv flag to change output from JSON to CSV
 python ebay_dl.py (search term) --pg_num=(number of pages) --csv
 
 ex: python ebay_dl.py 'lebron'  --pg_num=4 --csv
+
+## Course Project
+
+https://github.com/mikeizbicki/cmc-csci040/tree/2025spring/project_03_webscraping
